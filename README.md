@@ -5,7 +5,7 @@ This project aims to build a "machine learning model to predict the price of use
 
 ---
 
- 📂  Dataset Description  
+ # 📂  Dataset Description  
 - **Source:** Kaggle ([https://www.kaggle.com/datasets/mohitkumar282/used-car-dataset](#))  
 - **License:** CC BY 4.0 (Allows reuse with proper attribution)  
 - **Structure:** The dataset contains features such as:  
@@ -20,7 +20,7 @@ This project aims to build a "machine learning model to predict the price of use
 
 ---
 
- 🛠  Tech Stack  
+# 🛠  Tech Stack  
 ✅ **Python** 🐍  
 ✅ **pandas & numpy** 📊  
 ✅ **scikit-learn** 🤖  
@@ -30,7 +30,7 @@ This project aims to build a "machine learning model to predict the price of use
 
 ---
 
- 📊  Machine Learning Pipeline  
+# 📊  Machine Learning Pipeline  
 ### **1️⃣ Data Preprocessing**  
    - Handling missing values  
    - Encoding categorical variables  
@@ -54,7 +54,7 @@ This project aims to build a "machine learning model to predict the price of use
 
 ---
 
- 🚀  How to Use  
+# 🚀  How to Use  
 ### 📥 **Clone the Repository**  
 ```bash
 git clone https://github.com/betel09/used-car-price-prediction.git
