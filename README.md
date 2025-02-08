@@ -1,4 +1,4 @@
-# 🚗# ** Used Car Price Prediction**  
+# 🚗 ** Used Car Price Prediction**  
 
  📌  Project Overview  
 This project aims to build a "machine learning model to predict the price of used cars based on various attributes such as brand, model, year, mileage, fuel type, and transmission. The model is trained using **RandomForestRegressor** and deployed as an API using **FastAPI**.  
