@@ -59,3 +59,4 @@ This project aims to build a "machine learning model to predict the price of use
 ```bash
 git clone https://github.com/betel09/used-car-price-prediction.git
 cd used-car-price-prediction
+API: https://used-car-price-prediction-1-b7n2.onrender.com/docs
