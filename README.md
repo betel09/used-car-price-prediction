@@ -61,7 +61,7 @@ git clone https://github.com/betel09/used-car-price-prediction.git
 
 cd used-car-price-prediction
 # 🌐 API Endpoint
-[Used Car Price Prediction API](https://used-car-price-prediction-1-b7n2.onrender.com/docs)
+[Used Car Price Prediction API]([https://used-car-price-prediction-1-b7n2.onrender.com/docs](#))
 
 
 📌 Example JSON Request
